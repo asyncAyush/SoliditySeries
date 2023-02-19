@@ -8,7 +8,7 @@ contract state
 
     function setage() public 
     {
-        age = 10;
+          age = 10;
         
     }
 }
